@@ -1,1 +1,2 @@
-# Sokoban_Solver_IA
+# Sokoban Solver IA
+
