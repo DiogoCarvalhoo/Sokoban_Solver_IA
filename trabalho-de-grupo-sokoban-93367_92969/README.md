@@ -1,5 +1,9 @@
-# iia-ia-sokoban
+# Projeto: Sokoban Solver
 Sokoban clone for AI teaching
+
+### Autores:
+Diogo Carvalho<br/>
+Rafael Baptista
 
 ![Demo](https://github.com/dgomes/iia-ia-sokoban/raw/master/data/sokoban_screenshot.png)
 
